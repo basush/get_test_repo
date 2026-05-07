@@ -1,2 +1,6 @@
 test file
-modified
+
+
+changed 3 in br1
+
+changed
